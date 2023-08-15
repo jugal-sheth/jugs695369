@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jugal sheth
 - 👀 I’m interested in multiple codings...
 - 🌱 I’m graduate biomedical engineer...
--  currently studying MSc Robotics at Plymouth University
+-  MSc Robotics from Plymouth University
 - 📫 How to reach me ... shethjugal123@gmail.com
